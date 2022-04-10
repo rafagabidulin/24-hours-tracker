@@ -1,15 +1,7 @@
-# Getting Started with Create React App
+# 24HoursTracker
+The application will be a pie chart with a clock face. Each part of the diagram will be colored in a certain color. The arrow will show what time it is and which task from the to-do list should be in progress.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application should help in self-discipline and planning the day.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
